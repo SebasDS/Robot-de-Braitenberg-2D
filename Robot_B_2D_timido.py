@@ -50,8 +50,8 @@ mapa = [[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], #
 
 #Ubicacion inicial del Robot:
 
-xInicial = 28
-yInicial = 19
+xInicial = 2
+yInicial = 21
 posicion = [xInicial, yInicial]
 
 
