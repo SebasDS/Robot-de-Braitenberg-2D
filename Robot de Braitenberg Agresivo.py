@@ -119,9 +119,9 @@ def loop(posicion, direccion_actual):
         posicion, direccion_actual = mover_robot(movimiento_posibles, posicion, sense_index, direccion_actual)
         time.sleep(0.2)
 
-        borrar()
-        pintar_tablero(mapa, posicion, direcciones[direccion_actual])
-        print('¡¡Prueba Completada!!')
+    borrar()
+    pintar_tablero(mapa, posicion, direcciones[direccion_actual])
+    print('¡¡Prueba Completada!!')
 #-----------------------------------------------------------------------------------------------------
 
 #Dibuja el mapa en la consola
